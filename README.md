@@ -1,3 +1,5 @@
-# project.nxtaim.motion_eval
+# Holistic Evaluation Motion Prediction
 
-> Coming soon: Holistic Evaluation for Motion Prediction & Planning for Autonomous Driving
+Planning for Autonomous Driving
+
+> *code and paper forthcoming!*
