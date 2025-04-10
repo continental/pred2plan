@@ -1,5 +1,3 @@
-# Holistic Evaluation Motion Prediction
-
-Planning for Autonomous Driving
+# Holistic Evaluation Motion Prediction and Planning for Autonomous Driving
 
 > *code and paper forthcoming!*
